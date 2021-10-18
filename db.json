@@ -36,8 +36,8 @@
       "description": "O projeto Convertmymoney foi desenvolvido para converter $Dollar em R$Reais de acordo com sua cotação de venda do dollar atual do dia.",
       "tech": "HTML - CSS - JS - EJS",
       "category": "sistema",
-      "image": "https://firebasestorage.googleapis.com/v0/b/portifolio-af8ac.appspot.com/o/images%2Fimg4.png?alt=media&token=7dc61bd8-43d4-4751-9042-8c52bf188ffd",
-      "linkDemo": "https://convertmymoney.vercel.app",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portifolio-af8ac.appspot.com/o/images%2Fimg4.png?alt=media&token=9c9f6a16-09d1-4fef-8589-d3875435a463",
+      "linkDemo": "https://convert-my-money-dr.vercel.app",
       "linkGithub": "https://github.com/Djaysson/ConvertMyMoney"
     },
     {
