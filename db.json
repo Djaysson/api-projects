@@ -12,13 +12,13 @@
     },
     {
       "id": 2,
-      "title": "Testes-covid",
-      "description": "O projeto se baseia em um site de informações sobre o status da covid e status de vacinado da covid no Brasil.",
-      "tech": "HTML - CSS - JS - REACT",
+      "title": "CoronaBrasil",
+      "description": "O CoronaBrasil foi desenvolvido para informar a população sobre os casos de covid e mostrar a quantidade de pessoas já vacinadas no Brasil, o projeto também comunica alguns cuidados que as pessoas precisa ter para não contrair a covid.",
+      "tech": "JS - CSS - REACT - REACT-SLIDESHOW",
       "category": "site",
-      "image": "https://firebasestorage.googleapis.com/v0/b/portifolio-af8ac.appspot.com/o/images%2Fimg2.png?alt=media&token=815e7ddc-bda4-4b9d-81ec-b6ef23eb28f6",
-      "linkDemo": "https://testes-covid.netlify.app",
-      "linkGithub": "https://github.com/Djaysson/Testes-covid"
+      "image": "https://firebasestorage.googleapis.com/v0/b/portifolio-af8ac.appspot.com/o/images%2Fimg2.png?alt=media&token=e0f60d3f-55e1-4aa3-ab92-740efe1ac48e",
+      "linkDemo": "https://corona-brasil.netlify.app",
+      "linkGithub": "https://github.com/Djaysson/coronaBrasil"
     },
     {
       "id": 3,
